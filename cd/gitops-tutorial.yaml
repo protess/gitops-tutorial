@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: gitops-tutorial
-  namespace: oid2023
+  namespace: tutorial
 spec:
   replicas: 1
   revisionHistoryLimit: 2
