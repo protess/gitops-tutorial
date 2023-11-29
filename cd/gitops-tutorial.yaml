@@ -24,7 +24,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: gitops-tutorial
-  namespace: oid2023
+  namespace: tutorial
 spec:
   selector:
     app: gitops-tutorial
