@@ -1,4 +1,4 @@
-# gitops tutorial
+# Gitops Tutorial
 
 쿠버네티스코리아 커뮤니티 기술 세미나 2023/11/29
 
