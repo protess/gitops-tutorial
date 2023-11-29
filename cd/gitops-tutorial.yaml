@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: gitops-tutorial
-          image: 'ghcr.io/protess/cicd-tut-source:6caf9a8'
+          image: 'ghcr.io/protess/cicd-tut-source:6b537a9'
           ports:
             - containerPort: 3000
 ---
